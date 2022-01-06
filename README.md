@@ -1,0 +1,1 @@
+STM32F040F6 Pinout
