@@ -1,5 +1,5 @@
-DRC Rules Export File for PCB: D:\workspace\git\STM32F040F6-Pinout\PCB1.PcbDoc
+DRC Rules Export File for PCB: D:\workspace\git\STM32F040F6-Pinout\pannel_10x10cm.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
